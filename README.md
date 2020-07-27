@@ -39,4 +39,4 @@ It is important that you install these two packages to see the work in action.
 
 ## License
 
-[![license](https://img.shields.io/github/license/JoshHallRVA/https://github.com/JoshHallRVA/Readme-Generator?style=plastic)]()
+[![license](https://img.shields.io/badge/JoshHallRVA-ReadmeGen-green)]()
