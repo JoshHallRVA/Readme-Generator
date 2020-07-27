@@ -38,3 +38,5 @@ It is important that you install these two packages to see the work in action.
 ![Demo](assets/demo.gif)
 
 ## License
+
+[![license](https://img.shields.io/github/license/JoshHallRVA/https://github.com/JoshHallRVA/Readme-Generator?style=plastic)]()
