@@ -1,14 +1,7 @@
 # Readme-Generator
 
-This is a simple command-line application that<br> automatically generates a README.md from the information that the user provides. The user will be prompted for their GitHub username. Through this, we will make a call to the GitHub API to retrieve their email and profile image. They will further be prompted on information that should be added inside their readme file.
+This is a simple command-line application that automatically generates a README.md from the information that the user provides. The user will be prompted for their GitHub username. Through this, we will make a call to the GitHub API to retrieve their email and profile image. They will further be prompted on information that should be added inside their readme file.
 
-Table of Contents
-Instructions
-Technologies
-Installations
-Preview
-License
-Instructions
 The application will be invoked with the following command:
 
 node index.js
