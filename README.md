@@ -21,3 +21,6 @@ It is important that you install these two packages to see the work in action.
 
 - npm install axios
 - npm install inquirer
+
+Demo:
+![](demo.gif)
