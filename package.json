@@ -8,14 +8,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/JoshHallRVA/Readme-Generator"
+		"url": "git+https://github.com/JoshHallRVA/Readme-Generator-.git"
 	},
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/JoshHallRVA/Readme-Generator/issues"
+		"url": "https://github.com/JoshHallRVA/Readme-Generator-/issues"
 	},
-	"homepage": "https://github.com/JoshHallRVA/Readme-Generator",
+	"homepage": "https://github.com/JoshHallRVA/Readme-Generator-#readme",
 	"dependencies": {
 		"axios": "^0.19.2",
 		"inquirer": "^7.0.4"
