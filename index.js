@@ -124,5 +124,5 @@ async function getInfo() {
         \nGithub Repos URL: ${githubData.repos_url}
         
         `;
-	const formatedFile = fs.writeFileSync("readme.md", formatInfo);
+	const formatedFile = fs.writeFileSync("./docs.txt", formatInfo);
 }
