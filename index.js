@@ -115,8 +115,8 @@ async function getInfo() {
         ${info}
         \n## Tests
         \n${test}
-        \n## License
-        \n[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](${licenseURL})
+        \n## Licensehttps://img.shields.io/badge/JoshHallRVA-ReadmeGen-green
+        \n[![license]()](${licenseURL})
         \n## Author
         \n${githubData.name}
         \n![ProfilePicture](${githubData.avatar_url})
@@ -124,5 +124,5 @@ async function getInfo() {
         \nGithub Repos URL: ${githubData.repos_url}
         
         `;
-	const formatedFile = fs.writeFileSync("./docs.txt", formatInfo);
+	const formatedFile = fs.writeFileSync("./docss.txt", formatInfo);
 }
