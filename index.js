@@ -121,7 +121,7 @@ async function getInfo() {
         \n${githubData.name}
         \n![ProfilePicture](${githubData.avatar_url})
         \nGithub Email: ${githubData.email}
-        \nGithub Repos URL: ${githubData.repos_url}
+        \nGithub Repos URL: ${githubData.repos_url}asdfas
         
         `;
 	const formatedFile = fs.writeFileSync("./docss.txt", formatInfo);
